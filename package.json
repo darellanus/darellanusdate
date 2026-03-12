@@ -1,6 +1,6 @@
 {
-  "name": "platzidate",
-  "version": "1.0.0",
+  "name": "darellanus_date",
+  "version": "1.0.1",
   
   "main": "src/index.js",
   "scripts": {
